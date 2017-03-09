@@ -10,19 +10,19 @@ Install desired hardware inside box. Insulate with plastic sheets as necessary. 
 #Recommended
 Consider the following subsystems.
 
-*) Carbon Fiber Plate - https://dragonplate.com/ecart/categories.asp?cID=122 or https://dragonplate.com/ecart/categories.asp?cID=111
+* Carbon Fiber Plate - https://dragonplate.com/ecart/categories.asp?cID=122 or https://dragonplate.com/ecart/categories.asp?cID=111
 
-*) X220 Laptop
-*) Slice Battery
-*) Alternative External Battery - https://www.amazon.com/dp/B00YP823NA/?tag=hacdc-20
+* X220 Laptop
+* Slice Battery
+* Alternative External Battery - https://www.amazon.com/dp/B00YP823NA/?tag=hacdc-20
 
-*) USB Battery - https://www.adafruit.com/products/1565 or https://www.adafruit.com/products/1959
+* USB Battery - https://www.adafruit.com/products/1565 or https://www.adafruit.com/products/1959
 
-*) OpenWRT Router - https://www.gl-inet.com/ar150/
+* OpenWRT Router - https://www.gl-inet.com/ar150/
 
-*) Elastic Strap - https://smile.amazon.com/Dritz-9531B-Braided-Elastic-6-Yard/dp/B004CTR3VO/ref=sr_1_11?ie=UTF8&qid=1488045249&sr=8-11&keywords=elastic+strap
+* Elastic Strap - https://smile.amazon.com/Dritz-9531B-Braided-Elastic-6-Yard/dp/B004CTR3VO/ref=sr_1_11?ie=UTF8&qid=1488045249&sr=8-11&keywords=elastic+strap
 
-*) USB Isolator - https://www.amazon.com/HifimeDIY-Isolator-ADUM4160-signal-isolation/dp/B00F4SCCR2
+* USB Isolator - https://www.amazon.com/HifimeDIY-Isolator-ADUM4160-signal-isolation/dp/B00F4SCCR2
 
 
 #Copyright
