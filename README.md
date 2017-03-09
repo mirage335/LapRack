@@ -1,11 +1,28 @@
-Copyright (C) 2015-2017 mirage335
+Copyright (C) 2017 mirage335
 See the end of the file for license conditions.
 See license.txt for LapRack license conditions.
 
-Portable micro 'server rack' system for implementing portable workstations. Mount USB battery banks, OpenWRT routers, RasPis, electronics test equipment, laptops, or other resources, to a common frame.
+Simple, portable micro 'server rack' system for implementing portable workstations. Mount USB battery banks, OpenWRT routers, RasPis, electronics test equipment, laptops, or other resources, to a common frame.
 
 #Usage
-Install desired hardware inside box. Insulate with plastic sheets as necessary. Secure with small foam blocks. Carry rack separately, or mount to carbon fiber plate with laptop.
+Install desired hardware inside box. Insulate with plastic sheets as necessary. Secure with small foam blocks. Carry rack separately, or strap to a plate with laptop.
+
+#Recommended
+Consider the following subsystems.
+
+*) Carbon Fiber Plate - https://dragonplate.com/ecart/categories.asp?cID=122 or https://dragonplate.com/ecart/categories.asp?cID=111
+
+*) X220 Laptop
+*) Slice Battery
+*) Alternative External Battery - https://www.amazon.com/dp/B00YP823NA/?tag=hacdc-20
+
+*) USB Battery - https://www.adafruit.com/products/1565 or https://www.adafruit.com/products/1959
+
+*) OpenWRT Router - https://www.gl-inet.com/ar150/
+
+*) Elastic Strap - https://smile.amazon.com/Dritz-9531B-Braided-Elastic-6-Yard/dp/B004CTR3VO/ref=sr_1_11?ie=UTF8&qid=1488045249&sr=8-11&keywords=elastic+strap
+
+*) USB Isolator - https://www.amazon.com/HifimeDIY-Isolator-ADUM4160-signal-isolation/dp/B00F4SCCR2
 
 
 #Copyright
